@@ -1,0 +1,1 @@
+⚠️ All pipelines are designed for iterative processing on small datasets. Run one month at a time. Do not execute against large datasets in a single pass — adjust chunk sizes to your available CPU and memory resources.
