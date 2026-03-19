@@ -1,4 +1,13 @@
+⚠️ IMPORTANT NOTICE
 
+This repository contains code and content developed by Gina Aulabaugh / Pixelkraze LLC using generative AI as a tool for translating original concepts and frameworks into working code.
+
+This work is currently in active development and contains known hallucinations and drift introduced during the generative AI assisted development process. It requires significant cleanup and should not be used in any production environment at this time.
+
+The underlying ideas, frameworks, and methodologies are original work authored by Gina Aulabaugh and are protected under the license terms included in this repository.
+
+Use at your own risk.
+---
 ⚠️ Resource Notice
 All pipelines are designed for iterative processing on small datasets. Run one month at a time on local machines — do not execute against large datasets in a single pass.
 ---
