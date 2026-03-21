@@ -29,7 +29,7 @@ My work focuses on:
 
 ## 🛡️ Core System: AI Code Integrity Auditor
 
-A local validation tool designed to scan Python and JSON artifacts for:
+A local validation tool that audits AI-generated Python and JSON for structural integrity — catching issues that pass syntax checks but fail in reality.
 
 * hallucinated structures
 * broken or missing references
