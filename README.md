@@ -1,3 +1,7 @@
+## 🧠 Core Idea
+
+Building systems that detect and correct their own AI-generated drift.
+
 ## ⚠️ Project Status
 
 This repository contains experimental systems and frameworks developed using generative AI as part of an active research and prototyping environment.
