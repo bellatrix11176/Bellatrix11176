@@ -43,6 +43,25 @@ This tool acts as a **post-generation integrity layer** — something missing fr
 ---
 
 ## ⚙️ Active Workstreams
+## 🚀 Featured Systems
+
+<p align="center">
+  <a href="https://github.com/bellatrix11176/AI-Code-Integrity-Auditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellatrix11176&repo=AI-Code-Integrity-Auditor&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/bellatrix11176/novawireless-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellatrix11176&repo=novawireless-lab&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bellatrix11176/novawireless-rep-gen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellatrix11176&repo=novawireless-rep-gen&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/bellatrix11176/novawireless-customer-gen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bellatrix11176&repo=novawireless-customer-gen&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 * 📊 **NovaWireless — Trust Signal Health Pipeline**
   Synthetic telecom system modeling KPI drift, rep behavior, and trust signals
