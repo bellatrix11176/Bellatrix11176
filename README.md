@@ -9,6 +9,7 @@
 ![Layer](https://img.shields.io/badge/Layer-Post--Generation%20Validation-orange)
 ![Type](https://img.shields.io/badge/Work-Experimental%20Systems-critical)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+Treating AI-generated code as a draft — and building systems to validate what actually holds.
 
 ---
 
