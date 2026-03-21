@@ -1,50 +1,81 @@
-## 🧠 Core Idea
+# 👋 Gina Aulabaugh (Bellatrix11176)
 
-Building systems that detect and correct their own AI-generated drift.
+### Building systems that detect and correct their own AI-generated drift.
+
+---
+
+![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
+![Focus](https://img.shields.io/badge/Focus-AI%20Code%20Integrity-purple)
+![Layer](https://img.shields.io/badge/Layer-Post--Generation%20Validation-orange)
+![Type](https://img.shields.io/badge/Work-Experimental%20Systems-critical)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
+
+---
+
+## 🧠 What I’m Building
+
+I design and test systems that treat AI-generated code as a **first draft — not a finished product**.
+
+My work focuses on:
+
+* detecting structural inconsistencies in AI-generated code
+* identifying silent failures and drift
+* building validation layers for LLM-driven systems
+* turning messy, real-world data into structured, auditable pipelines
+
+---
+
+## 🛡️ Core System: AI Code Integrity Auditor
+
+A local validation tool designed to scan Python and JSON artifacts for:
+
+* hallucinated structures
+* broken or missing references
+* invalid outputs that “look correct”
+* drift introduced during iterative AI generation
+
+This tool acts as a **post-generation integrity layer** — something missing from most AI workflows today.
+
+---
+
+## ⚙️ Active Workstreams
+
+* 📊 **NovaWireless — Trust Signal Health Pipeline**
+  Synthetic telecom system modeling KPI drift, rep behavior, and trust signals
+
+* 🧪 **AI Code Integrity Auditor**
+  Detecting hallucination-style failures in `.py` and `.json` files
+
+* 🧠 **DFDE (Drift-Failure Detection Engine)**
+  Framework for identifying where systems appear correct but fail structurally
+
+---
+
+## 🔬 Development Approach
+
+Instead of optimizing for speed alone, I work in loops:
+
+> Generate → Audit → Measure → Refine
+
+The goal is not perfect outputs —
+but systems that **improve their own reliability over time**.
+
+---
 
 ## ⚠️ Project Status
 
-This repository contains experimental systems and frameworks developed using generative AI as part of an active research and prototyping environment.
+All repositories are part of an active research and prototyping environment.
 
-The focus is on building **real-world, iterative systems** — where speed, exploration, and structure evolve together.
+They are:
 
-Some components may include:
+* safe for exploration, learning, and experimentation
+* not intended for production deployment (yet)
 
-* iterative or evolving implementations
-* partially completed modules
-* artifacts from AI-assisted development
-
-Rather than avoiding these realities, this repository is designed to **surface, measure, and improve them over time.**
-
-All code is periodically audited using a custom **AI Code Integrity Auditor**, which detects:
-
-* structural inconsistencies
-* invalid or missing references
-* drift introduced during AI-assisted generation
-* silent failure risks
-
-This creates a controlled feedback loop where issues are **identified, tracked, and remediated** as part of the development process.
-
-👉 Safe for: exploration, learning, and experimentation
-👉 Not intended for: production deployment (yet)
+Each project is continuously reviewed using internal validation tooling to surface and correct drift over time.
 
 ---
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2026 Gina Aulabaugh / PixelKraze, LLC
+## 🌐 Connect
 
-You are free to:
-  Share — copy and redistribute the material in any medium or format
-  Adapt — remix, transform, and build upon the material
-
-Under the following terms:
-  Attribution — You must give appropriate credit to Gina Aulabaugh / PixelKraze, LLC,
-  provide a link to the license, and indicate if changes were made.
-
-  NonCommercial — You may not use the material for commercial purposes without
-  explicit written permission from the copyright holder.
-
-No additional restrictions — You may not apply legal terms or technological measures
-that legally restrict others from doing anything the license permits.
-
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+* 🌍 https://pixelkraze.com
+* 💼 https://linkedin.com/in/gina-aulabaugh
