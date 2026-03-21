@@ -1,17 +1,19 @@
-⚠️ IMPORTANT NOTICE
+## ⚠️ Project Status
 
-This repository contains code and content developed by Gina Aulabaugh / Pixelkraze LLC using generative AI as a tool for translating original concepts and frameworks into working code.
+This repository contains experimental systems and frameworks developed using generative AI as part of an active research and prototyping process.
 
-This work is currently in active development and contains known hallucinations and drift introduced during the generative AI assisted development process. It requires significant cleanup and should not be used in any production environment at this time.
+These projects are **intended for exploration, analysis, and development workflows** — not production deployment.
 
-The underlying ideas, frameworks, and methodologies are original work authored by Gina Aulabaugh and are protected under the license terms included in this repository.
+Some components may include:
 
-Use at your own risk.
----
-⚠️ Resource Notice
-All pipelines are designed for iterative processing on small datasets. Run small chunks of data at a time on local machines — do not execute against large datasets in a single pass.
----
-For enterprise scale deployment: Cloud infrastructure with distributed processing (AWS EMR, Azure Databricks, or Google Cloud Dataproc) is recommended. Process in parallel batches by scenario or time segment rather than sequentially. Adjust chunk sizes to your available compute resources.
+* incomplete implementations
+* iterative structures
+* artifacts from AI-assisted development
+
+All code is periodically reviewed using a custom **AI Code Integrity Auditor** designed to detect structural inconsistencies and drift in Python and JSON files.
+
+👉 Safe for: exploration, learning, and experimentation
+👉 Not intended for: production use (yet)
 ---
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
