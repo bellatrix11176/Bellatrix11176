@@ -1,48 +1,53 @@
 # 👋 Gina Aulabaugh (Bellatrix11176)
 
-### Building systems that detect and correct their own AI-generated drift.
+### AI Systems | Integrity, Drift Detection, and Post-Generation Validation
 
 ---
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
-![Focus](https://img.shields.io/badge/Focus-AI%20Code%20Integrity-purple)
+![Focus](https://img.shields.io/badge/Focus-AI%20Integrity%20Systems-purple)
 ![Layer](https://img.shields.io/badge/Layer-Post--Generation%20Validation-orange)
-![Type](https://img.shields.io/badge/Work-Experimental%20Systems-critical)
+![Type](https://img.shields.io/badge/Work-Research%20%2F%20Experimental-critical)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
-Treating AI-generated code as a draft — and building systems to validate what actually holds.
+AI-generated output is not truth — it is a **draft**.
+
+I build systems that determine what actually holds.
 
 ---
 
-## 🧠 What I’m Building
+## 🧠 What I Build
 
-I design and test systems that treat AI-generated code as a **first draft — not a finished product**.
+I design validation layers for AI-generated systems — focusing on what breaks **after** something appears to work.
 
-My work focuses on:
+Core areas:
 
-* detecting structural inconsistencies in AI-generated code
-* identifying silent failures and drift
-* building validation layers for LLM-driven systems
-* turning messy, real-world data into structured, auditable pipelines
+- Structural integrity validation for AI-generated code  
+- Detection of silent failures and hallucinated logic  
+- Drift analysis across iterative AI workflows  
+- Governance pipelines for LLM-driven systems  
+- Converting messy, real-world data into auditable systems  
 
 ---
 
 ## 🛡️ Core System: AI Code Integrity Auditor
 
-A local validation layer that scans AI-generated Python and JSON for structural integrity — catching issues that pass syntax checks but fail in reality.
+A local validation layer that scans AI-generated Python and JSON for structural correctness — identifying failures that pass syntax but fail in reality.
 
-**Initial Finding:** When run across my own repositories, this auditor identified integrity issues in every project — including ones that appeared to function correctly.
+**Key Finding:**  
+When applied across my own repositories, integrity issues were found in **every project** — including systems that appeared fully functional.
 
-* hallucinated structures
-* broken or missing references
-* invalid outputs that “look correct”
-* drift introduced during iterative AI generation
+Common failure patterns:
+- hallucinated structures that “look valid”
+- broken or missing references
+- silent logic failures with valid outputs
+- drift introduced during iterative generation
 
-This tool acts as a **post-generation integrity layer** — something missing from most AI workflows today.
+This represents a missing layer in most AI workflows:
+
+> **Post-generation validation**
 
 ---
-
-## ⚙️ Active Workstreams
 
 ## 🚀 Featured Systems
 
@@ -61,42 +66,52 @@ This tool acts as a **post-generation integrity layer** — something missing fr
   </a>
 </p>
 
-* 📊 **NovaWireless — Trust Signal Health Pipeline**
-  Synthetic telecom system modeling KPI drift, rep behavior, and trust signals
+<p align="center">
+  <b>Detection → Simulation → Governance</b><br>
+  Systems designed to identify, reproduce, and correct AI-driven failure modes.
+</p>
 
-* 🧪 **AI Code Integrity Auditor**
-  Detecting hallucination-style failures in `.py` and `.json` files
+---
 
-* 🧠 **DFDE (Drift-Failure Detection Engine)**
-  Framework for identifying where systems appear correct but fail structurally
+## 🧩 System Layering
+
+These projects form a connected architecture:
+
+- **Detection** — AI Code Integrity Auditor  
+- **Simulation** — NovaWireless synthetic call-center lab  
+- **Governance** — Trust signal pipelines and drift monitoring  
+- **(Private)** — DFDE: structural failure detection framework  
+
+Together, they model how AI systems fail — and how to correct them.
 
 ---
 
 ## 🔬 Development Approach
 
-Instead of optimizing for speed alone, I work in loops:
+I don’t use AI to move faster.
+
+I use it to think deeper.
+
+All systems are developed through iterative validation loops:
 
 > Generate → Audit → Measure → Refine
 
-The goal is not perfect outputs —
+The goal is not perfect outputs —  
 but systems that **improve their own reliability over time**.
 
 ---
 
-## ⚠️ Project Status
+## ⚠️ Status
 
-All repositories are part of an active research and prototyping environment.
+All projects are part of an active research and prototyping environment.
 
-They are:
-
-* safe for exploration, learning, and experimentation
-* not intended for production deployment (yet)
-
-Each project is continuously reviewed using internal validation tooling to surface and correct drift over time.
+- Designed for experimentation and analysis  
+- Continuously audited for structural integrity  
+- Not yet production-hardened  
 
 ---
 
 ## 🌐 Connect
 
-* 🌍 https://pixelkraze.com
-* 💼 https://linkedin.com/in/gina-aulabaugh
+- 🌍 https://pixelkraze.com  
+- 💼 https://linkedin.com/in/gina-aulabaugh
